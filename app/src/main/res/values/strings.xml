@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">appUsageLogger</string>
+    <string name="yes">Yes</string>
+    <string name="notCollectingDataAnymore">The app has deleted all data and no longer collecting any, please uninstall the app</string>
+    <string name="pleaseCloseScreen">Thank you for granting permission. At this time, please turn off your screen and then turn it back on and unlock your phone to ensure data is being collected. This may take a couple of seconds. If this message remains after 20 seconds or you encounter problems, please contact the researcher</string>
+</resources>
